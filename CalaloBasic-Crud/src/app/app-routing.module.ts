@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { ViewListsComponent } from './view-lists/view-lists.component';
-import { ViewDetailsComponent } from './view-details/view-details.component';
+import { ViewListsComponent } from './Orders/view-lists/view-lists.component';
+import { ViewDetailsComponent } from './Orders/view-details/view-details.component';
 import { ContactSellerComponent } from './contact-seller/contact-seller.component';
 import { FooterComponent } from './footer/footer.component';
 import { ViewListComponent } from './Accounts/view-list/view-list.component';

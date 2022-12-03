@@ -13,8 +13,8 @@ import { ViewListComponent } from './Accounts/view-list/view-list.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ContactSellerComponent } from './contact-seller/contact-seller.component';
 import { FooterComponent } from './footer/footer.component';
-import { ViewListsComponent } from './view-lists/view-lists.component';
-import { ViewDetailsComponent } from './view-details/view-details.component';
+import { ViewListsComponent } from './Orders/view-lists/view-lists.component';
+import { ViewDetailsComponent } from './Orders/view-details/view-details.component';
 
 @NgModule({
   declarations: [
